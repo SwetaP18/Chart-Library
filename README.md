@@ -1,2 +1,2 @@
-# Chart-Library
+# chart-library
 Organisation Hierarchy Display
